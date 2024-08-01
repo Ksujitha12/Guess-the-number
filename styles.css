@@ -1,0 +1,42 @@
+body{
+    margin: 150px;
+    background: white;
+    font-style: inherit;
+}
+#num{
+    border: 3px solid black;
+    width: 600px;
+    height: 350px;
+    bottom:100px ;
+    box-shadow: black;
+}
+h1{
+    border: 2px solid black;
+    width:300px ;
+    height:44px ;
+    border-radius: 30px;
+    background:gray;
+    color:black;
+    box-shadow: black;
+}
+h3{
+    font-size:30px;
+    font-style: inherit;
+   
+}
+button{
+    width: 200px;
+    height: 40px;
+    background-color:black;
+    color: aliceblue;
+    font-size: 17px;
+    border: 2px solid black;
+    font-style: italic;
+   
+}
+input{
+    width: 400px;
+    height: 40px;
+    border: 2px solid black;
+    
+}
